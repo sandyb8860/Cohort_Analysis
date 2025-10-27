@@ -24,7 +24,7 @@ Cohort analysis allows businesses to:
 
 "If 100 customers joined in January and 85 made a repeat purchase in February, the retention for month 1 is 85%. Tracking this over time helps understand customer loyalty."
 
-## 🎯 What You'll Learn
+## 🎯 What we'll Learn
 
 - How to segment customers by cohorts (signup month/period)
 - How marketing, product experience, and engagement influence long-term retention

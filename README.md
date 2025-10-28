@@ -19,6 +19,9 @@ This project performs cohort analysis using SQL to measure how well a business r
 - **Trend insights**: Later cohort months in 2021 show more significant drop-off in the later stages compared to earlier cohorts, suggesting declining retention or engagement over time.
 - **Actionable insight**: Identifying such trends can help direct business strategies towards improving long-term retention and understanding where users are churning most.
 
+- <img width="2965" height="1767" alt="image" src="https://github.com/user-attachments/assets/3cbe6098-ba37-405e-9eba-0bf20ba81f90" />
+
+
 ## 📈 Business Impact
 Cohort analysis allows businesses to:
 - **Identify drop-off points** — Discover where and why customers stop engaging

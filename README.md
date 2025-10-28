@@ -21,6 +21,13 @@ This project performs cohort analysis using SQL to measure how well a business r
 
 - <img width="2965" height="1767" alt="image" src="https://github.com/user-attachments/assets/3cbe6098-ba37-405e-9eba-0bf20ba81f90" />
 
+**Cohort Retention Line Chart Insights**
+- All cohorts experience a significant drop in retention from Stage 0 (100%) to Stage 1, but the magnitude varies.
+- Retention patterns differ: some cohorts show stability after the initial drop, others continue declining or fluctuate in later stages.
+- Earlier cohorts (e.g., 2021-02 to 2021-04) tend to have lower overall retention than some later cohorts (e.g., 2021-09, 2021-11).
+- Recent cohorts have only short lines in the chart since less data is available for later stages.
+- There is no single long-term retention pattern—each cohort behaves uniquely over time.
+- Analyzing cohort curves helps identify high-performing and low-performing groups, allowing for targeted retention strategies.
 
 ## 📈 Business Impact
 Cohort analysis allows businesses to:

@@ -7,11 +7,10 @@ This project performs cohort analysis using SQL to measure how well a business r
 - **Data-driven strategies** — Use insights to improve customer retention and engagement
 
 ## 📊 Visuals and Insights
-This analysis includes:
-- **Retention curves** — Visualize customer retention trends over time
-- **Cohort tables** — Compare retention rates across different customer cohorts
-- **Bar charts** — Display returning users by cohort and period
-- **Key findings** — Customer retention rates, loyalty patterns, drop-off points, and actionable business recommendations
+
+![Cohort Analysis Heatmap](https://github.com/user-attachments/assets/b22aace0-bd5e-4fb7-a86b-5876560e23d1)
+
+*This heatmap visualizes the percentage values across different stages (PCT_0 to PCT_6) for each cohort month from February 2021 to February 2022. The color intensity represents the magnitude of the percentages, with darker shades indicating higher values. By examining the heatmap, we can analyze the trends within each cohort as they progress through the stages and compare the performance of different cohorts at similar stages. Later cohorts in 2021 show a decline in percentages at later stages compared to earlier cohorts.*
 
 ## 📈 Business Impact
 Cohort analysis allows businesses to:

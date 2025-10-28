@@ -1,5 +1,7 @@
 # Cohort Analysis
 
+Cohort analysis is a data analytics technique used to study the behavior and performance of groups of customers (called cohorts) who share a common characteristic or event within a specific time period, such as their first purchase month or signup date. By tracking these cohorts over time, businesses can measure metrics like retention, engagement, and revenue trends. This helps identify how customer behavior changes, evaluate the impact of marketing strategies, and improve decision-making. Cohort analysis is widely used in e-commerce, product analytics, and finance to understand customer lifecycles and optimize acquisition, retention, and growth strategies.
+
 It helps uncover customer loyalty patterns and highlights how marketing, product experience, and engagement efforts influence long-term retention.
 
 - Monthly retention rates per cohort
